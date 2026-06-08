@@ -73,7 +73,6 @@ On success, the script prints progress messages and saves all output plots to th
 Image-HWK1/
 ├── process.py              # Main pipeline and algorithm implementations
 ├── moon.png                # Input grayscale moon image (required)
-├── moon-documentation.tex  # LaTeX source for the written report
 ├── requirements.txt        # Python dependencies
 ├── README.md               # This file
 └── output/                 # Generated plots (created on run)
